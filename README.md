@@ -1,9 +1,3 @@
-# AICUP_Power
-
-Here's a sample `README.md` file for your project. You can modify the sections according to your project's details.
-
----
-
 # Power Generation Prediction Project
 
 This repository contains the code and resources for the **Power Generation Prediction Project**. The goal of this project is to predict power generation based on environmental data (e.g., temperature, humidity, wind speed, sunlight, and other meteorological variables) using machine learning models, including **Random Forest Regressor**, **XGBoost**, **LSTM (Long Short-Term Memory)**, and more.
