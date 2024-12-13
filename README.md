@@ -2,6 +2,13 @@
 
 This repository contains the code and resources for the **Power Generation Prediction Project**. The goal of this project is to predict power generation based on environmental data (e.g., temperature, humidity, wind speed, sunlight, and other meteorological variables) using machine learning models, including **Random Forest Regressor**, **XGBoost**, **LSTM (Long Short-Term Memory)**, and more.
 
+## Competition Name: AICUP 2024 - Electricity Generation Forecasting
+
+Leaderboard Score: 702044.7
+Rank: 29 / 934 (Top 3.1%)
+
+The competition aims to utilize microclimate data to predict solar panel power output at various locations.
+
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Installation](#installation)
