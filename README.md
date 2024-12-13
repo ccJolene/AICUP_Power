@@ -4,8 +4,8 @@ This repository contains the code and resources for the **Power Generation Predi
 
 ## Competition Name: AICUP 2024 - Electricity Generation Forecasting
 
-Leaderboard Score: 702044.7
-**Rank: 29 / 934 (Top 3.1%)**
+Leaderboard Score: 702044.7  
+**Rank: 29 / 934 (Top 3.1%)**  
 The competition aims to utilize microclimate data to predict solar panel power output at various locations.
 
 ## Table of Contents
